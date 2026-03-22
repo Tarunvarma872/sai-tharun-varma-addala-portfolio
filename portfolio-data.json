@@ -1,0 +1,190 @@
+{
+  "settings": {
+    "name": "Sai Tharun Varma Addala",
+    "title": "Mechanical Engineer | CAD Designer",
+    "location": "Germany",
+    "summary": "Driving mechanical innovation through CAD, simulation, and advanced manufacturing, I am currently pursuing an M.Sc. in Intelligent Manufacturing at TU Clausthal. I have hands-on experience in mechanical design, structural analysis, CFD, CAM simulation, and prototype development across academic and internship projects. My work includes designing BAJA SAE chassis systems, contributing to a championship-winning electric go-kart, and publishing research on bio-mimetic MAVs.. I am seeking Mechanical Design, R&D, or Advanced Manufacturing roles where I can apply my technical skills, problem-solving ability, and collaborative mindset.",
+    "profileImage": "https://image2url.com/r2/default/images/1774212871583-f833669b-a0e4-4fec-8348-64d5f914b1b3.jpeg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:tarunvarmaaddala@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Creo",
+          "Catia V5",
+          "Siemens NX",
+          "SolidWorks",
+          "Ansys",
+          "HyperMesh",
+          "MATLAB",
+          "Python",
+          "CNC Machining",
+          "Rapid Prototyping",
+          "3D Printing",
+          "Design for Manufacturing",
+          "CAE",
+          "FEM",
+          "Thermal Analysis"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "ELEATION – Pune, India",
+          "position": "Intern",
+          "period": "February 2024 – April 2024",
+          "description": "Designed and modelled complex BAJA SAE INDIA chassis and steering mechanisms, ensuring optimal component packaging. Integrated steering geometry into the main assembly, improving directional control and handling precision. Developed detailed 3D models of structural components, maintaining design clarity for the fabrication team. Performed structural analysis on the chassis to evaluate weight distribution and material strength under various load conditions. Utilized HyperMesh and Ansys for mesh optimization and Finite Element Analysis (FEA) to ensure structural safety. Validated chassis durability against specifications, identifying and resolving high-stress concentration areas."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Fabrication of an Electric Go-Kart",
+          "description": "Manufacturing and assembly of an E-Cart, focusing on chassis design and steering alignment to meet competitive standards. Tools: SolidWorks, Ansys Workbench, AISI 1018 Steel.",
+          "tags": [
+            "SolidWorks",
+            "Ansys",
+            "Chassis Design",
+            "E-Kart"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "Bio-Mimetic Micro Air Vehicles (MAV) for Surveillance",
+          "description": "Design and performance assessment of a bird-inspired MAV, achieving 0.6054 N lift through advanced fluid dynamics. Tools: Catia V5, ANSYS Workbench R21, MATLAB.",
+          "tags": [
+            "Catia V5",
+            "ANSYS Workbench",
+            "MATLAB",
+            "Fluid Dynamics",
+            "MAV"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "CAM Simulation of Rocket Landing Gear Component",
+          "description": "Optimized a rocket landing tray holder for manufacturability by applying DfM and DfX principles in Siemens NX, ensuring structural integrity and precision. Developed a full 3-axis CAM simulation using Sinumerik machine setups to program toolpaths and production sequences for high-precision aluminum aerospace components. Tools: Siemens NX (Manufacturing Module), 3-axis CNC Simulation, CAD, DfX Principles.",
+          "tags": [
+            "Siemens NX",
+            "CAM Simulation",
+            "DfM",
+            "DfX",
+            "CNC"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Technische Universität Clausthal, Germany",
+          "degree": "M.Sc. (Intelligent Manufacturing)",
+          "period": "March 2025 - ongoing"
+        },
+        {
+          "institution": "Anil Neerukonda Institutes of Technology and Sciences",
+          "degree": "B.Tech (Mechanical Engineering)",
+          "period": "June 2020 – August 2024"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Published Researcher",
+          "description": "Authored a research paper on Bio-Mimetic Micro Air Vehicles (MAV) for Surveillance."
+        },
+        {
+          "title": "EdgeLine Championship",
+          "description": "Won the national-level competition for the design and development of an e-Kart."
+        },
+        {
+          "title": "Robot War",
+          "description": "Secured first place in the university combat robotics event through mechanical design and strategic execution."
+        },
+        {
+          "title": "Professional Memberships",
+          "description": "Actively contributed to SAE India and ISHRAE student chapters during B.Tech studies."
+        },
+        {
+          "title": "National Level Recognition",
+          "description": "Represented my institution in high-stakes engineering championships and technical workshops."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "tarunvarmaaddala@gmail.com",
+      "phone": "+49 15210899723",
+      "location": "Germany"
+    },
+    "social": {
+      "enabled": true,
+      "items": []
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Sai Tharun Varma Addala. All rights reserved."
+  }
+}
